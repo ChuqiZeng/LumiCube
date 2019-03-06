@@ -1,5 +1,5 @@
 # LumiCube
- a Lighting Assistant for Workspace
+ Arduino, Particle Web IDE, Photon, RBG Color Light Sensor
 
 LumiCube is a lighting assistant for our workspace, it can help us know the current lighting in the workspace easily:
 1) light intensity and color temperature.
